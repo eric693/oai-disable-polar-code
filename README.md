@@ -138,6 +138,11 @@ sudo ./nr-uesoftmodem -r 106 --numerology 1 --band 78 -C 3619200000 --ue-fo-comp
 ```
 # define DISABLE_POLAR_CODING_DEBUG
 ```
+## Architecture
+Tx:
+![alt text](image-2.png)
+Rx:
+![alt text](image-3.png)
 ## Terminal
 Tx:
 ![alt text](image.png)
